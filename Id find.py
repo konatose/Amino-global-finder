@@ -8,4 +8,4 @@ fok=client.get_from_code(n)
 id=client.get_from_code(n).objectId
 cid=fok.path[1:fok.path.index("/")]
 print("this mf ndc://g/user-profile/"+id)
-#print("yoyo" +cid) #for comid￼Enter
+#print("yoyo" +cid) #for comid #remove hashtag and add hashtag to other print to change to it
